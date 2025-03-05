@@ -188,7 +188,7 @@ while true; do
             exit 0
             ;;
         *)
-            echo "Option invalide. Veuillez choisir une option entre 1 et 3."
+            echo "Option invalide. Veuillez choisir une option entre 1 et 4."
             ;;
     esac
     read -p "Appuyez sur Entrée pour continuer."
