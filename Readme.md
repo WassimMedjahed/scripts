@@ -206,3 +206,7 @@ Ce script Bash interactif permet de gérer différentes fonctionnalités du syst
 Le script fonctionne avec une boucle principale qui affiche un menu général et attend une saisie de l’utilisateur. Selon le choix effectué, une seconde boucle affiche un sous-menu correspondant, géré via une structure case. Chaque option exécute la commande système appropriée.
 
 Le script tourne en boucle jusqu’à ce que l’utilisateur choisisse explicitement l’option "Quitter" (option 4) ou force l’arrêt avec Ctrl + C.
+
+## <u> Cockpit :</u>
+
+![Texte alternatif](cp.png)
